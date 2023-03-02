@@ -1,0 +1,24 @@
+html {
+  background-image: url(https://i.pinimg.com/originals/ad/72/dd/ad72dd44249e80a1a39a105f5fe6a826.jpg);
+  background-repeat: no-repeat;
+}
+h1 {
+  color: bisque;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: rgb(213, 240, 240);
+  padding: 50px;
+  border: 1px solid black;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
